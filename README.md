@@ -1,7 +1,7 @@
 # Image-Based Theming Engine
 
 Upload a wallpaper, extract its colors, and generate a live UI theme.
-Built by <Your Name> for E-Cell NITK Technical Recruitments 2026 (Task 3).
+Built by Nishant Pentakota for E-Cell NITK Technical Recruitments 2026 (Task 3).
 
 ## How it works
 - **Color extraction:** Color Thief reads the image pixels and returns the 6 dominant colors, shown as clickable swatches.
