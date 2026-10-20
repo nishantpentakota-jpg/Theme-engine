@@ -21,4 +21,4 @@ Built by Nishant Pentakota for E-Cell NITK Technical Recruitments 2026 (Task 3).
 Open `index.html` in any browser.
 
 ## Note
-I used AI assistance (Claude) to help me learn and build this project, and I customized and tested it myself.# Theme-engine
+I used AI assistance (Claude AI) to help me learn and build this project. I tested it, made my own edits, and can explain how each part works.
